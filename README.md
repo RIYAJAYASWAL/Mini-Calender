@@ -42,6 +42,15 @@ CSS
 
 JavaScript
 
+# 🚀 Live Demo
+Click here to here to view the live demo ---> https://riyajayaswal.github.io/Mini-Calender/
+
+# 📷 Screenshot
+Light-Mode --><img width="1920" height="1080" alt="Screenshot 2025-12-28 210014" src="https://github.com/user-attachments/assets/474e3662-10ea-4ce3-80ff-57d95a0d7d1f" />
+Dark-Mode --><img width="1920" height="1080" alt="Screenshot 2025-12-28 210038" src="https://github.com/user-attachments/assets/e948c972-f08f-48fc-88bb-2853b1e28a2c" />
+
+
+
 # 🙋‍♀️ Author
 # Riya Jayaswal
 
