@@ -30,8 +30,6 @@ Built using HTML, CSS, and JavaScript, this project is simple, clean, and perfec
 
 🎨 Gradient background + reflection effect
 
-🧡 “Made with love by Riya” header
-
 📱 Responsive and clean UI
 
 # 🛠️ Tech Stack
