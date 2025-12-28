@@ -1,3 +1,12 @@
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Status](https://img.shields.io/badge/Version-v2.0-brightgreen)
+![Dark Mode](https://img.shields.io/badge/Feature-Dark--Mode-purple)
+![Animations](https://img.shields.io/badge/UI-Animations-pink)
+![Made With Love](https://img.shields.io/badge/Made%20With-%E2%9D%A4-red)
+
+
 # 📅 Mini Calendar — Dark Mode + Animated (v2)
 
 This is the updated version of my Mini Calendar project — now enhanced with:
